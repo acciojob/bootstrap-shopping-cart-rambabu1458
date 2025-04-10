@@ -27,13 +27,15 @@ body {
       font-size: 14px;
     }
 
-    .product h5 {
-      color: blue;
+    .product a {
       font-size: 18px;
+	  text-decoration:none;
+		font-weight:600;
     }
 
     .quantity h5 {
       color: initial;
+		font-size: 18px;
     }
 
     .quantity span {
